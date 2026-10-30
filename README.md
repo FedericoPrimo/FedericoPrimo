@@ -10,8 +10,8 @@
 </p>
 
 ## 📌 Currently
-- Completing my MSc in Artificial Intelligence and Data Engineering
-- Exploring open-source contributions and real-world infrastructure projects in my personal homelab
+- Completed my MSc in Artificial Intelligence and Data Engineering
+- Exploring infrastructure projects in my personal homelab
 - Having fun while learning new technologies
 
 <!--
